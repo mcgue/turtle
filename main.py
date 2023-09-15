@@ -11,4 +11,18 @@ def print_test():
 
 # Run
 if __name__ == '__main__':
-    print_test()
+    # Create drawing board as well as set background and title
+    db = turtle.Screen()
+    db.bgcolor("light blue")
+    db.title("My Turtle")
+
+    # Create turtle
+    max = turtle.Turtle()
+
+    # Move turtle
+    max.forward(50)
+    max.right(50)
+    max.forward(50)
+
+    # End drawing
+    turtle.done()
