@@ -4,11 +4,6 @@
 
 import turtle
 
-
-def print_test():
-    print('test')
-
-
 # Run
 if __name__ == '__main__':
     # Create drawing board as well as set background and title
