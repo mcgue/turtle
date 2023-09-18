@@ -15,9 +15,20 @@ if __name__ == '__main__':
     max = turtle.Turtle()
 
     # Move turtle
-    max.forward(50)
-    max.right(50)
-    max.forward(50)
+    max.left(90)
+    max.forward(100)
+    max.right(90)
+    max.circle(25,180)
+    max.forward(40)
+    max.circle(25,180)
+    max.right(90)
+    max.forward(100)
+    max.right(90)
+    max.forward(20)
+    max.circle(50,225)
+    max.right(90)
+    max.circle(50,225)
+    max.forward(20)
 
     # End drawing
     turtle.done()
