@@ -1,3 +1,3 @@
 # turtle
-Expriments with Turtle Mmodule <br>
+Experiments with the Turtle Module <br>
 Status: complete
