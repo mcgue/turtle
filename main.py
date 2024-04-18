@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Just some fun with turtle module
+
 # Uses the Turtle module to draw a simple figure
 import turtle
 
